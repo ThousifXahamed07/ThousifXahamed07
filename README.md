@@ -226,7 +226,7 @@ An AI maths notepad. Draw an equation by hand, and a **vision-language model** r
 <img src="https://skillicons.dev/icons?i=python,go,java,ts,js,postgres,mongodb,redis,fastapi,spring,docker,kafka,git&perline=13" alt="Tech stack"/>
 </p>
 
-| | |
+| Area | Tools |
 |---|---|
 | **AI / LLM** | OpenAI GPT-4o · Qwen VL (on-prem) · LangChain · RAG · semantic search · prompt engineering · evals |
 | **Backend** | FastAPI · asyncio · Spring Boot · Go (Gin) · Flask · REST · WebSockets · Kafka |
